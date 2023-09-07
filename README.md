@@ -28,12 +28,10 @@ Here are some ideas to get you started:
         <p>
             <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=forumbit&" alt="forumbit" />
         </p>
-        <br>
         <p align="center"> 
             <img src="https://komarev.com/ghpvc/?username=forumbit&label=Profile%20views&color=0e75b6&style=flat" alt="forumbit" /> 
         </p>
     </h3>
-    <br>
     <h2>
          About me
     </h2>
