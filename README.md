@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="text-align: center; color: white;font-family:Courier New">
+<div align="center" style="color: white;font-family:Courier New">
     <h1> 
         <img src='https://github.com/Forumbit/Forumbit/blob/main/images/Waving%20Hand%20Medium%20Skin%20Tone.png?raw=true' width=32>
         Hi there! I'm Amir
