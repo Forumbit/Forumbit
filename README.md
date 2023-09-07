@@ -26,7 +26,7 @@ Here are some ideas to get you started:
         <br>
         <br>
         <p>
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=forumbit&" alt="forumbit" />
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=forumbit&theme=algolia&hide_border=true" alt="forumbit" />
         </p>
         <p align="center"> 
             <img src="https://komarev.com/ghpvc/?username=forumbit&label=Profile%20views&color=0e75b6&style=flat" alt="forumbit" /> 
@@ -42,12 +42,12 @@ Here are some ideas to get you started:
         <span style=''>I'm student and study at <b>Kazan State Power Engineering University</b></span>
     </p>
     <p align='center'>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=forumbit&show_icons=true&locale=en&layout=compact" height=150 alt="forumbit"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=forumbit&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" height=150 alt="forumbit"/>
         &nbsp;
-        <img src="https://github-readme-stats.vercel.app/api?username=forumbit&show_icons=true&locale=en" alt="forumbit" height=150/>
+        <img src="https://github-readme-stats.vercel.app/api?username=forumbit&show_icons=true&locale=en&theme=algolia&hide_border=true" alt="forumbit" height=150/>
     </p>
     <p align='center'>
-        <img align="center" src="https://github.r2v.ch/codewars?user=Forumbit" alt="forumbit"/>
+        <img align="center" src="https://github.r2v.ch/codewars?user=Forumbit&theme=midnight_blue" alt="forumbit"/>
     </p>
     <h2><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Laptop.png?raw=true" height=24> Languages and Tools:</h2>
 
