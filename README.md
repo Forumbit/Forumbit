@@ -38,18 +38,18 @@ Here are some ideas to get you started:
     <h2>
          About me
     </h2>
-    <p style='display:flex;align-items: center'>    
+    <p style='text-align:center;'>    
         <img src='https://github.com/Forumbit/Forumbit/blob/main/images/Student%20Medium%20Skin%20Tone.png?raw=true' style='margin-right:30px;margin-left: auto;height:80px;width:80px'>
-        <span style=' min-width: 0;word-wrap: break-word;vertical-align:middle;font-size:22px;'>I'm student and study at <b><br>Kazan State Power Engineering University</b>
-        </span>
-        <img src='https://github.com/Forumbit/Forumbit/blob/main/images/kgeu.gif?raw=true'style='border-radius:12px;margin-left:40px;height:80px;width:80px;margin-right: auto;'>
+        <img src='https://github.com/Forumbit/Forumbit/blob/main/images/kgeu.gif?raw=true&border_radius=8' style="border-radius:13px; margin-left:40px; height:80px; width:80px; margin-right: auto;">
+        <br>
+        <span style=''>I'm student and study at <b>Kazan State Power Engineering University</b></span>
     </p>
     <p>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=forumbit&show_icons=true&locale=en&layout=compact" alt="forumbit" height=200 style="margin-top:20;"/>
         &nbsp;
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=forumbit&show_icons=true&locale=en" alt="forumbit" height=200 style="margin-top:20px;"/>
     </p>
-    <h2><img src='https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Laptop.png?raw=true' height=24> Languages and Tools:</h2>
+    <h2><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Laptop.png?raw=true" height=24> Languages and Tools:</h2>
 
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
