@@ -47,7 +47,7 @@ Here are some ideas to get you started:
     <p>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=forumbit&show_icons=true&locale=en&layout=compact" alt="forumbit" height=200 style="margin-top:20;"/>
         &nbsp;
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=forumbit&show_icons=true&locale=en" alt="forumbit" height=200 style="margin-top:20px;"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=forumbit&show_icons=true&locale=en" alt="forumbit" height=200 style="margin-top:20px;"/><br>
     </p>
     <h2><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Laptop.png?raw=true" height=24> Languages and Tools:</h2>
 
