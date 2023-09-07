@@ -44,10 +44,10 @@ Here are some ideas to get you started:
         <span style=''>I'm student and study at <b>Kazan State Power Engineering University</b></span>
     </p>
     <p>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=forumbit&show_icons=true&locale=en&layout=compact" alt="forumbit" height=200 style="margin-top:20;"/><br><br>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=forumbit&show_icons=true&locale=en&layout=compact" height=100 width=300 alt="forumbit"/>
         &nbsp;
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=forumbit&show_icons=true&locale=en" alt="forumbit" height=200 style="margin-top:20px;"/>
-        <img align="center" src="https://github.r2v.ch/codewars?user=Forumbit" alt="forumbit" height=200 style="margin-top:20px;"/>
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=forumbit&show_icons=true&locale=en" alt="forumbit" height=100 width=300/>
+        <img align="center" src="https://github.r2v.ch/codewars?user=Forumbit" width=300 height=100 alt="forumbit"/>
     </p>
     <h2><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Laptop.png?raw=true" height=24> Languages and Tools:</h2>
 
