@@ -43,11 +43,13 @@ Here are some ideas to get you started:
         <br>
         <span style=''>I'm student and study at <b>Kazan State Power Engineering University</b></span>
     </p>
-    <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=forumbit&show_icons=true&locale=en&layout=compact" height=100 width=300 alt="forumbit"/>
+    <p align='center'>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=forumbit&show_icons=true&locale=en&layout=compact" height=150 alt="forumbit"/>
         &nbsp;
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=forumbit&show_icons=true&locale=en" alt="forumbit" height=100 width=300/>
-        <img align="center" src="https://github.r2v.ch/codewars?user=Forumbit" width=300 height=100 alt="forumbit"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=forumbit&show_icons=true&locale=en" alt="forumbit" height=150/>
+    </p>
+    <p align='center'>
+        <img align="center" src="https://github.r2v.ch/codewars?user=Forumbit" alt="forumbit"/>
     </p>
     <h2><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Laptop.png?raw=true" height=24> Languages and Tools:</h2>
 
