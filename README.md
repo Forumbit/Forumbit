@@ -40,8 +40,9 @@ Here are some ideas to get you started:
     </h2>
     <p style='display:flex;align-items: center'>    
         <img src='https://github.com/Forumbit/Forumbit/blob/main/images/Student%20Medium%20Skin%20Tone.png?raw=true' style='margin-right:30px;margin-left: auto;height:80px;width:80px'>
-        <span style=' min-width: 0;word-wrap: break-word;vertical-align:middle;font-size:22px;'>I'm student and study at <b><br>Kazan State Power Engineering University</b></span>
-        <img src='https://github.com/Forumbit/Forumbit/blob/main/kgeu.gif?raw=true'style='border-radius:12px;margin-left:40px;height:80px;width:80px;margin-right: auto;'>
+        <span style=' min-width: 0;word-wrap: break-word;vertical-align:middle;font-size:22px;'>I'm student and study at <b><br>Kazan State Power Engineering University</b>
+        </span>
+        <img src='https://github.com/Forumbit/Forumbit/blob/main/images/kgeu.gif?raw=true'style='border-radius:12px;margin-left:40px;height:80px;width:80px;margin-right: auto;'>
     </p>
     <p>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=forumbit&show_icons=true&locale=en&layout=compact" alt="forumbit" height=200 style="margin-top:20;"/>
